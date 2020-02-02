@@ -2,6 +2,7 @@ package wwj.qk.maven;
 
 public class Happy {
     public static void main(String[] args) {
-		System.out.println("i am so happy");
+		System.out.println("AAAAAAAAAAAAEclipse_Git01_Copy2 am so happy");
+		System.out.println("AAAA");
 	}
 }
